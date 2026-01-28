@@ -28,12 +28,12 @@ My research focus on robot learning for bi-manual robotic, espically on imitatio
 
 * Normalizing Flows are Capable Visuomotor Policy Learning Models
   * **Jialong Li**<sup>*</sup>, Simon Kristoffersson Lind<sup>*</sup>, Maj Stenmark, Volker Krüger
-  * [Preview](https://arxiv.org/abs/2509.21073)
+  * [preview](https://arxiv.org/abs/2509.21073)
 
 * Quest2ROS2: A ROS 2 Framework for Bi-manual VR Teleoperation
   * **Jialong Li**<sup>*</sup>, Zhenguo Wang<sup>*</sup>, Tianci Wang, Maj Stenmark, Volker Krüger
   * ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2026
-  * [Code](https://github.com/Taokt/Quest2ROS2)
+  * [paper](https://arxiv.org/pdf/2601.18289v1), [Code](https://github.com/Taokt/Quest2ROS2)
 
 # Teaching
 I have been a TA for the following courses
