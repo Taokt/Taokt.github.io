@@ -9,7 +9,7 @@ redirect_from:
 
 I am PhD Student at [Lund University](https://www.lunduniversity.lu.se/home) under the [WASP](https://wasp-sweden.org/) program, co-supervised by [Volker Krüger](https://portal.research.lu.se/sv/persons/volker-krueger/) and [Maj Stenmark](https://portal.research.lu.se/sv/persons/maj-stenmark/).
 
-My research focus on robot learning for bi-manual robotic, espically on imitation learning (visuomotor learning, vision-lanuage-action model).
+My research focus on robot learning for bi-manual robotic manipulation, espically on imitation learning (visuomotor learning, vision-lanuage-action model).
 
 # Education
 * **Lund University, Sweden (October 2024 - Now)**
